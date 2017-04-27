@@ -1,0 +1,60 @@
+/***** HALAMAN LOGIN ******/
+
+body{
+	font-family: arial;
+	font-size: 14px;
+}
+
+#wrapper{
+	font-size: 16px;
+	margin: 6% auto;
+	width: 25%;
+	
+}
+
+#header{
+	padding: 20px;
+	color: #fff;
+	background-color: #14143c;
+	text-align: center;
+	border: 1px solid #000;
+}
+
+#body{
+	padding: 20px;
+	border: 1px solid #ccd;
+}
+
+.hakakses{
+	padding: 10px;
+	width: 245px;
+	margin-bottom: 30px;
+}
+
+.input{
+	padding: 10px;
+	margin-bottom: 30px;
+	border-style: none;
+	border-bottom: 1px solid #ccc;
+}
+
+.fa-user, .fa-lock, .fa-eye, .fa-users{
+	width: 35px;
+	height: 30px;
+	margin-left: 3px;
+}
+
+.input-btn{
+	padding: 10px;
+	width: 300px;
+	background-color: #14143c;
+	border-style: none;
+	color: #fff;
+}
+
+.input-btn:hover{
+	background-color: #080821;
+	cursor: pointer;
+}
+
+/****** HALAMAN LOGIN *****/
